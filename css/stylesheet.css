@@ -1,0 +1,25 @@
+#title-1 {
+    font-size: 250%;
+    text-align: center;
+    color:coral;
+}
+
+h3{
+    font-size: 150%;
+}
+
+body{
+    background-color:	#1e1e1e;
+    color:whitesmoke;
+        background-image: url("/img/fox.jpg");
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img-fox{
+    width: 720px;
+}
